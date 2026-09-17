@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix منصة الإنجليزية الذكية - المعلم الخصوصي للغات",
+  "description": "منصة تعليمية تفاعلية لتعلم قواعد اللغة الإنجليزية، بناء المفردات، وتصحيح النصوص وصياغة الجمل بخطوات مبسطة باللغة العربية مع ميزة الصوت الذكي والتوجيه الصوتي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
